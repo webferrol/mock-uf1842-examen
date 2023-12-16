@@ -11,26 +11,26 @@
 let num1 = 3
 let num2 = 5
 let num3 = 6
-let promedio = num1 + num2 + num3 / 3
+let promedio = (num1 + num2 + num3) / 3
 console.log(promedio)
 
 // Segunda instancia
 num1 = 1
 num2 = 8
 num3 = 5
-promedio = num1 + num2 + num3 / 3
+promedio = (num1 + num2 + num3) / 3
 console.log(promedio)
 
 // Tercera instancia
 num1 = 2
 num2 = 3
 num3 = 5
-promedio = num1 + num2 + num3 / 3
+promedio = (num1 + num2 + num3) / 3
 console.log(promedio)
 
 // Cuarta instancia
 num1 = 3.3
 num2 = 98
 num3 = 32
-promedio = num1 + num2 + num3 / 3
+promedio = (num1 + num2 + num3) / 3
 console.log(promedio)
